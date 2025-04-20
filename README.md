@@ -126,7 +126,7 @@ border-left: 10px solid white;
 </head>
 <body>
 <h2>В этот замечательный день ты появилась в моей жизни</h2>
-<img src="heart.gif" class="heart" alt="Сердце" />
+<img src="[heart.gif](https://vscode-vfs+github-002b7b2276223a312c22726566223a7b2274797065223a352c226964223a226d61696e227d7d.vscode-resource.vscode-cdn.net/lluvae/lluvaeformylove/heart.gif?version%3D1745128520499)" class="heart" alt="Сердце" />
 <div class="message">
 <p><i>Любимая, мы познакомились ровно 6 лет назад.</i></p>
 <p><i>Ты — свет в моей жизни, мое солнышко.</i></p>
