@@ -126,7 +126,7 @@ border-left: 10px solid white;
 </head>
 <body>
 <h2>В этот замечательный день ты появилась в моей жизни</h2>
-<img src="heart.gif" class="heart" alt="Сердце" />
+<img src="heart.png" class="heart" alt="Сердце" />
 <div class="message">
 <p><i>Любимая, мы познакомились ровно 6 лет назад.</i></p>
 <p><i>Ты — свет в моей жизни, мое солнышко.</i></p>
